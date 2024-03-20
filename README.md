@@ -1,3 +1,9 @@
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/pbhjpofq.json"
+    trigger="hover"
+    style="width:250px;height:250px">
+</lord-icon>
 <h1 align="center">Hi 👋, I'm ezspeaks</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
